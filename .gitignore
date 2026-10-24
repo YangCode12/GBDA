@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Model weights and checkpoints
+*.pth
+
+# Logs
+*.log
+Pro_log/
+
+# OS
+.DS_Store
+Thumbs.db
